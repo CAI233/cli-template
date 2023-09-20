@@ -4,6 +4,8 @@
 
 //学习  https://juejin.cn/post/6914556810129539085
 
+//学习 https://blog.csdn.net/AS_TS/article/details/126579860?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-126579860-blog-106123839.235%5Ev38%5Epc_relevant_anti_vip&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-126579860-blog-106123839.235%5Ev38%5Epc_relevant_anti_vip&utm_relevant_index=10
+
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f83f96d306c343d99801fb7ddbbb3900~tplv-k3u1fbpfcp-watermark.image?)
 ### 一、背景：
 过去的半年里，因为工作业务的需要，自己陆续写了两个脚手架，且都在前端组内业务中应用起来了，因此也受到了主管肯定，顺便申请了专利，其中一个已经申请专利成功，另外一个申请中（等申请成功再写篇文章分享）...
